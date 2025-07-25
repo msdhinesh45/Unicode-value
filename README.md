@@ -8,7 +8,7 @@ This mini web project displays:
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live project](https://github.com/msdhinesh45/Unicode-value)
+👉 [Click here to view the live project](https://unicode-converterr.netlify.app/)
 
 ---
 
